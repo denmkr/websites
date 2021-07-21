@@ -1,5 +1,7 @@
 # Developed websites
 
+The websites are developed using PHP, Wordpress, Woocommerce, HTML, CSS, Javascript, JQuery.
+
 1. https://otrajenie.com
 2. https://doncotton.su/en/
 3. https://imagestudio.su
