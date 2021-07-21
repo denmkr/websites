@@ -1,6 +1,6 @@
 # Developed websites
 
-1. <a href="https://otrajenie.com" target="_blank">https://otrajenie.com</a>
+1. <a href="https://otrajenie.com" target="_blank">otrajenie.com</a>
 2. https://doncotton.su/en/
 3. https://imagestudio.su
 4. https://develop.imagestudio.su/panda/
